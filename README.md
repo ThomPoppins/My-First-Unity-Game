@@ -1,7 +1,12 @@
 # My-First-Unity-Game
 
 
-## GET FREE ASSETS:
+### I started learning Unity on September 30th, 2023. I'm using what I learn to build my first game, which I'll share in this public repository. Right now, I'm also taking a Junior Programmer course on the Unity Learn website. While this game is important to me, it's not my top priority in my learning journey. I hope you'll check it out later once it's playable – it'll be ready sooner than you might think!
+
+
+### Notes for me:
+
+#### GET FREE ASSETS:
 
 There are several resources where you can find free assets for use in Unity. Here are some popular options:
 
@@ -27,7 +32,7 @@ There are several resources where you can find free assets for use in Unity. Her
 
 Remember to always check the licensing terms of any asset you download. Some may require attribution or have restrictions on commercial use. Always respect the terms set by the original creators.
 
-## GET FREE SOUNDS:
+#### GET FREE SOUNDS:
 
 Finding free game sounds for your Unity project can greatly enhance the audio experience. Here are some resources where you can find free game sounds:
 
