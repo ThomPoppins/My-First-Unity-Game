@@ -18,6 +18,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        MovePlayer();
+    }
+
+    void MovePlayer()
+    {
         // Move player left and right with arrow keys or A and D within the left and right boundaries from the input manager
         if (Input.GetAxis("Horizontal") > 0 && transform.position.x < horizontalBoundary)
         {
