@@ -62,3 +62,6 @@ Finding free game sounds for your Unity project can greatly enhance the audio ex
     - Some developers share their game assets on GitHub, including sounds. You can search for repositories containing free game sounds.
 
 Always make sure to check the licensing terms for each resource you use. Even if a resource is free, it may have specific requirements for attribution or usage in commercial projects.
+
+#### GET FREE ANIMATIONS:
+https://www.mixamo.com/#/
