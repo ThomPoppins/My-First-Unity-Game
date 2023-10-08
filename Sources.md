@@ -65,3 +65,41 @@ Always make sure to check the licensing terms for each resource you use. Even if
 
 #### GET FREE ANIMATIONS:
 https://www.mixamo.com/#/
+
+#### FREE UML TOOLS:
+
+There are several free UML (Unified Modeling Language) tools available that you can use for creating diagrams and models. Here are some popular ones:
+
+1. **Lucidchart**:
+   - Lucidchart offers a free version with limited features, including basic UML diagram creation.
+   - Website: https://www.lucidchart.com/
+
+2. **Draw.io**:
+   - Draw.io is an open-source online diagramming tool that supports UML diagrams among others.
+   - Website: https://draw.io/
+
+3. **StarUML**:
+   - StarUML is a free UML modeling tool with a rich set of features.
+   - Website: http://staruml.io/
+
+4. **Visual Paradigm Community Edition**:
+   - Visual Paradigm offers a free Community Edition that provides basic UML modeling capabilities.
+   - Website: https://www.visual-paradigm.com/
+
+5. **UMLet**:
+   - UMLet is a free, open-source UML tool with a simple, fast, and intuitive user interface.
+   - Website: https://www.umlet.com/
+
+6. **PlantUML**:
+   - PlantUML is a text-based UML diagramming tool that generates diagrams from a plain text language.
+   - Website: https://plantuml.com/
+
+7. **Dia**:
+   - Dia is an open-source general-purpose diagramming tool that can be used for creating UML diagrams.
+   - Website: https://wiki.gnome.org/Apps/Dia
+
+8. **Pencil Project**:
+   - Pencil is a free and open-source GUI prototyping tool that also supports UML diagrams.
+   - Website: https://pencil.evolus.vn/
+
+Remember to check the specific features and limitations of each tool to ensure it meets your requirements. Additionally, while these tools offer free versions, some may also have paid versions with additional features and support.
