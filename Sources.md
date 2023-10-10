@@ -63,8 +63,7 @@ Finding free game sounds for your Unity project can greatly enhance the audio ex
 
 Always make sure to check the licensing terms for each resource you use. Even if a resource is free, it may have specific requirements for attribution or usage in commercial projects.
 
-#### GET FREE ANIMATIONS:
-https://www.mixamo.com/#/
+
 
 #### FREE UML TOOLS:
 
@@ -103,3 +102,26 @@ There are several free UML (Unified Modeling Language) tools available that you 
    - Website: https://pencil.evolus.vn/
 
 Remember to check the specific features and limitations of each tool to ensure it meets your requirements. Additionally, while these tools offer free versions, some may also have paid versions with additional features and support.
+
+#### GET FREE ANIMATIONS:
+https://www.mixamo.com/#/
+
+Finding free animations for use in Unity can greatly enhance your game development process. There are several resources available where you can find animations:
+
+1. **Mixamo** (https://www.mixamo.com/): Mixamo offers a wide range of free and paid animations. You can customize and download them in various formats compatible with Unity.
+
+2. **Unity Asset Store** (https://assetstore.unity.com/): The Unity Asset Store has a vast collection of assets, including animations. Some of them are free, while others may be paid.
+
+3. **OpenGameArt** (https://opengameart.org/): OpenGameArt is a community-driven platform for sharing free game assets, including animations. You can filter by license to find animations you can use in your Unity projects.
+
+4. **Kenney.nl** (https://kenney.nl/assets): Kenney offers a large collection of free game assets, including animations, that you can use in your Unity projects.
+
+5. **Animation Resources Subreddit** (https://www.reddit.com/r/AnimationResources/): This subreddit occasionally shares free animation resources that can be used in various game development platforms, including Unity.
+
+6. **GitHub** (https://github.com/): There are repositories on GitHub that offer free animations. You can search for specific repositories or use GitHub's search filters to find what you need.
+
+7. **Mixamo on GitHub** (https://github.com/search?q=mixamo): Some community members have shared Mixamo animations on GitHub. Keep in mind to respect the licenses and terms of use.
+
+8. **Sketchfab** (https://sketchfab.com/): Sketchfab is a platform for discovering and sharing 3D models and animations. Some of them are available for free, and you can filter your search to find animations.
+
+Remember to always check the licensing terms of the animations you use, especially if you plan to use them in a commercial project. Some animations may require attribution or have specific restrictions on usage. Always give proper credit to the original creators as per their licensing requirements.
